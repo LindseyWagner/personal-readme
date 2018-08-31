@@ -2,7 +2,7 @@
 *This document is meant to give colleagues a quick rundown on my work preferences, and some context about my life. Feel free to edit the template and add whatever information feels important to you! You are free to use and share this template under Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5).*
 
 ### What’s the best way to communicate with me?
-I'm generally pretty responsive on Slack these days (I even put it back on my phone). I'll be responsive to stuff after work hours (around 6), but if it's urgent or it requires me to set up a meeting or introduce you to someone, I'd prefer an email. If it requires me to not also do something else at the same time, let's hop on the phone. 
+I'm generally pretty responsive on Slack. I prefer emails (or a task on Asana) if you need me to set up something or introduce you to someone or generally to do something. If it requires me to not be multi-tasking, then let's hop on the phone or a video conference. 
 
 If I don’t respond, shoot me another email or ping me again on Slack. You're not bugging me, I promise. 
 
@@ -12,12 +12,12 @@ Your computer security. Yeah, I know password management and yubikeys aren't ver
 I've done product management in the past and enjoyed it, so I like talking about understanding your users/audience and what your vision is for the product you're working on.
 
 ### What makes me grumpy?
-Pedestrians that hog all the sidewalk or decide to stop suddenly. 
+Pedestrians that hog all of the sidewalk or decide to stop suddenly. 
 
-Related to work, I don't love circling back on decisions that have already been made unless there's a great reason. I get grumpy when there's gatekeeping or someone acts as a bottleneck. I also like to make sure people are heard in meetings and will call folks out if they're interrupting a bit too often.
+Related to work, I don't love circling back on decisions that have already been made unless there's a solid reason. I get grumpy when there's gatekeeping or someone acts as a bottleneck. I also like to make sure people are heard in meetings and will call folks out if they're interrupting a bit too often.
 	
 ### How do I like to give feedback?
-If it's about a doc or something we're working on, I'll probably use Slack or email to provide feedback. But, if it's something a bit bigger then I prefer to give feedback in-person or on the phone. In the past, I've had (monthly or biweekly, usually) one-on-ones with team members where we talked about the project, life, and I had a chance to provide feedback.
+If it's about a doc or something we're working on, I'll probably use Slack or email to provide feedback. But, if it's something a bit bigger then I prefer to give feedback in-person or on the phone. In the past, I've had (monthly or biweekly, usually) one-on-ones with team members where we talked about the project and provide feedback on how things are going.
 
 ### How do I like to receive feedback?
 I prefer to receive feedback in-person or over the phone as well, usually as it comes up if there's something urgent or that I'm not doing right. I'm open to receiving it any time, really, so please don't hesitate to reach out. I'd rather you let me know than stressing out about it. 
@@ -26,6 +26,7 @@ Also, if you're not comfortable speaking to me directly, please reach out to Afu
 
 ### One of my goals for the project:
 Work-related: Learn from y'all about how you approach user research/experience design, the tools you use, and what methods you find most helpful. 
+
 Non-work: Given all the trips we're going to be on, learn how to pack more efficiently. 
 
 ### Topics I’m always happy to talk about:
