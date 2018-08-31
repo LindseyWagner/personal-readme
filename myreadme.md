@@ -27,7 +27,7 @@ I really love talking about food. Your favorite thing to cook, geeking out over 
 
 ### Other things you might want to know:
 
-* My favorite baked good:
+* Food I have strong opinions about: Nachos. Ask me about my nacho manifesto if you'd like to learn more.
 * Spouses/partners/kiddos/pets: I live with my wonderful girlfriend, Kaeti, and our pet turtle, Soup.
 * Fruit on pizza? I used to be a hard no, but then I realized I love tacos al pastor (pork tacos with pineapple on them). It felt hypocritical for me to be so anti-fruit on pizza, so now I'm a "not for me, but I won't judge you for doing it."
 * My coffee order: Iced dirty chai latte. 
