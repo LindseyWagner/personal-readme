@@ -10,7 +10,7 @@ If I don’t respond, try texting me!
 Your computer security. Yeah, I know password management and yubikeys aren't very fun, but it is very important to me. 
 
 ### What makes me grumpy?
-
+Pedestrians that hog all the sidewalk or decide to stop suddenly. Related to work, I get grumpy when there's gatekeeping. 
 	
 ### How do I like to give feedback?
 I prefer to give feedback over the phone or in-person. In the past, I've had (monthly or biweekly, usually) one-on-ones with team members where we talked about the project, life, and I had a chance to provide feedback.
